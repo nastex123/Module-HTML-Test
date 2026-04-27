@@ -6,7 +6,7 @@ This is an official landing page for Rock Rebels, a rock band promotion their 20
 ## Technologies used
 - HTML 5 (semantic tags: header, nav, section, article, footer)
 - CSS (Flexbox, grid layout, animations, responsive desing)
-- JavaScript (basic interactions: alerts, dynamic yearm button state changes)ç
+- JavaScript (basic interactions: alerts, dynamic yearm button state changes)
 
 ## Project structure
 
