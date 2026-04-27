@@ -27,3 +27,9 @@ This is an official landing page for Rock Rebels, a rock band promotion their 20
 ## coder
 - Brandon Jose Carranza Rangel
 - url repository: "https://github.com/nastex123/Module-HTML-Test.git"
+
+#How To run
+- Download the zip
+- extract
+- open index.html
+- enjoy :D
